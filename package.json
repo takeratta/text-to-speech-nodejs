@@ -25,7 +25,7 @@
     "casperjs": "^1.1.4",
     "cf-deployment-tracker-client": "^0.1.4",
     "dotenv": "^4.0.0",
-    "express": "^4.16.2",
+    "express": "^4.22.0",
     "express-browserify": "^1.0.2",
     "express-rate-limit": "^2.11.0",
     "express-react-views": "^0.10.5",
